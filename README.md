@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Steam Profile](https://steamid.tptat.com/api/badge/76561198326565172)](https://steamid.tptat.com/u/76561198326565172)
+
 <!--
 **tptat/tptat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
